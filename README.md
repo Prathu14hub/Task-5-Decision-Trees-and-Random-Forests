@@ -18,7 +18,7 @@ To understand and implement two popular tree-based classification models – **D
 ---
 
 ## 🚀 **Google Colab Link**
-[🔗 Click here to open in Google Colab](https://colab.research.google.com/drive/1iFSdkZw6wrstnsym_ZD_mGwYdz9dckpj?usp=sharing)
+(https://colab.research.google.com/drive/1iFSdkZw6wrstnsym_ZD_mGwYdz9dckpj?usp=sharing)
 
 ---
 
